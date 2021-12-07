@@ -12,4 +12,5 @@ delivered by JetBrains.
 |  3  | ⭐ <br/> Time 17:59:44 <br/>Rank 86148<br/> Score 0 | ⭐ <br/> Time 18:51:25 <br/>Rank 63350<br/> Score 0 |
 |  4  |   ⭐ <br/> Time >24h <br/>Rank 64914<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 61258<br/> Score 0   |
 |  5  |   ⭐ <br/> Time >24h <br/>Rank 52395<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 53852<br/> Score 0   |
-|  6  | ⭐ <br/> Time 13:28:13 <br/>Rank 47408<br/> Score 0 | ⭐ <br/> Time15:31:53 <br/>Rank 44013<br/> Score 0  |
+|  6  | ⭐ <br/> Time 13:28:13 <br/>Rank 47408<br/> Score 0 | ⭐ <br/> Time 15:31:53 <br/>Rank 44013<br/> Score 0 |
+|  7  | ⭐ <br/> Time 05:01:30 <br/>Rank 30587<br/> Score 0 | ⭐ <br/> Time 09:02:53 <br/>Rank 38197<br/> Score 0 |
