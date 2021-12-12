@@ -18,3 +18,4 @@ delivered by JetBrains.
 |  8  | ⭐ <br/> Time 16:53:23 <br/>Rank 49387<br/> Score 0 |   ⭐ <br/> Time >24h <br/>Rank 43875<br/> Score 0   | This task was very challenging.             |
 |  9  |   ⭐ <br/> Time >24h <br/>Rank 55762<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 48367<br/> Score 0   |                                             |
 | 10  |   ⭐ <br/> Time >24h <br/>Rank 49061<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 47770<br/> Score 0   |                                             |
+| 11  |   ⭐ <br/> Time >24h <br/>Rank 39846<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 39666<br/> Score 0   |                                             |
